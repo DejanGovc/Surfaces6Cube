@@ -6,4 +6,4 @@ Since the f-vector is completely determined by the surface type and the number o
 
 The subfolder "orientable" contains the orientable surfaces, while "even" and "odd" contain non-orientable surfaces of even and odd demigenus (respectively).
 
-**Disclosure:** Some of these surfaces were found with the assistance of GPT-6 Astra via OpenAI Codex. Their topological types were verified independently using human-written code.
+**Disclosure:** Some of these surfaces were found with the assistance of GPT-6 Astra via OpenAI Codex. Their topological types were verified independently using human-written code. We conjecture that this gives a complete list of f-vectors of closed surfaces in the 6-cube.
